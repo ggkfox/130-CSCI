@@ -1,0 +1,27 @@
+header {
+    background-color: rgb(40,40,40);
+    height: 50px;
+}
+
+h1 {
+    float: left;
+    margin-top: 10px;
+    color: #FFF;
+}
+
+ul {
+    float: right;
+    margin-top: 20px;
+    color: #FFF;
+}
+
+li {
+    display: inline-block;
+    padding-right: 60px;
+    list-style: none;
+    color: #FFF;
+}
+
+img {
+    padding: 20px;
+}
